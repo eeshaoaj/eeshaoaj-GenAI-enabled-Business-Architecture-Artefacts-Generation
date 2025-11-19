@@ -1,1 +1,1 @@
-# eeshaoaj-Prompt-Engineering-Techniques-for-GenAI-enabled-Business-Architecture
+# eeshaoaj-GenAI-enabled-Business-Architecture Artefacts Generation
